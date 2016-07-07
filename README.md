@@ -15,7 +15,7 @@ Crushed by the overwhelming complexity, vendors choose to provide their APIs to 
 When first developing Fayde, I faced enormous trouble attracting contributors.
 Upon years of reflection, I recognize that graphics systems require a very narrow set of skills and desire.
 Generally speaking, developers with these skills are heavily involved in the gaming community.
-They do not have the appetite to build general purpose graphics engine.
+They do not have the appetite to build a general purpose graphics engine.
 Conversely, developers with the appetite are quickly discouraged from the overwhelming nature.
 Further, choosing a language like Javascript heavily narrowed the desire of willing participants.
 
